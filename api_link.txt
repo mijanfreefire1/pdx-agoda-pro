@@ -1,1 +1,1 @@
-https://pdx-agoda-server-production-ffa0.up.railway.app
+pdx-agoda-server-production-58f3db4a.up.railway.app
